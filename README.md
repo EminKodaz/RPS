@@ -8,3 +8,4 @@ A traditional game that you can play against the computer.
 * JavaScript
 
 # [Live Link](https://rockpapersgame.netlify.app/)
+# Tutorial by freeCodeCamp
